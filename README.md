@@ -9,3 +9,7 @@ It is an example from the ArrayList exercises with Tim
 ## Local Development
 
 1. Open index.html in your browser
+
+## Subheader
+
+changed case: 7 in main.

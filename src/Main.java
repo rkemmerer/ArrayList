@@ -38,8 +38,9 @@ public class Main {
                     break;
                 case 7:
                     quit = true;
-                    System.out.println("Quitting...");
+                    System.out.println("Quitting the process...");
                     break;
+                    // this is just a comment to show how I am updating to github
             }
         }
     }
